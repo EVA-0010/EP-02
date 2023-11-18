@@ -11,7 +11,7 @@ body{
 
 
 }
-/* 區塊設定 */
+/* 區塊設定 */ 
 header{
 	background:linear-gradient(#7c11c3, rgb(228, 107, 255));  /* 背景色*/
 	padding-top: 10px;   /* 內距-上方，上方內部距離為10px*/
